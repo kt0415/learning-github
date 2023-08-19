@@ -1,8 +1,7 @@
-//{ Driver Code Starts
+
 #include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
 class Solution {
   public:
     bool isValid(vector<int>&piles, int h, int n, int hr)
