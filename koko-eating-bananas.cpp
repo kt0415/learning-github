@@ -1,4 +1,4 @@
-
+//FAQ in interviews
 #include <bits/stdc++.h>
 using namespace std;
 
